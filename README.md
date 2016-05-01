@@ -30,7 +30,7 @@ Feel free to perform a pull request to the project, implementing additional func
 
 ### Local installation
 
-If preferred, the user can use [IJulia Notebook](https://github.com/JuliaLang/IJulia.jl) in your local machine.
+If preferred, the user can use [IJulia Notebook](https://github.com/JuliaLang/IJulia.jl) in your local machine.<br>
 Just install IJulia Notebook and load the file `Multicasts-Julia.ipynb`. 
 
 ### References
