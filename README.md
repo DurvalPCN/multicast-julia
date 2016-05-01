@@ -37,7 +37,7 @@ Just install IJulia Notebook and load the file `Multicasts-Julia.ipynb`.
 ### Credits
 
 Created by <a href="http://www.durvalpereira.com.br" target="_blank">Durval Pereira</a><br>
-<a href="http://bit.ly/durvallattes" target="_blank">Lattes</a> <a href="http://twitter.com/DurvalPCN">Twitter</a> <a href="http://www.facebook.com/durvalpereiracn">Facebook</a> <a href="plus.google.com/+DurvalPereiraCesar">Google+</a> <a href="mailto:contato@durvalpereira.com.br">Contact me</a>
+<a href="http://bit.ly/durvallattes" target="_blank">Lattes</a> <a href="http://twitter.com/DurvalPCN">Twitter</a> <a href="http://www.facebook.com/durvalpereiracn">Facebook</a> <a href="http://plus.google.com/+DurvalPereiraCesar">Google+</a> <a href="mailto:contato@durvalpereira.com.br">Contact me</a>
 
 ### References
 
