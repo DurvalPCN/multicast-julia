@@ -1,12 +1,12 @@
 ## Implementation of B-multicast and R-multicast using Julia.
 
-This baby project was made using [JuliaBox](https://juliabox.org), we recommend you also use the same tool, listed above.
+This baby project was made using <a href="https://juliabox.org" target="_blank">JuliaBox</a>, we recommend you also use the same tool, listed above.
 
-The main goal of the project was to implement the algorithms for B-multicast and R-multicast in two ways for
+The main goal of the project is to implement the algorithms for B-multicast and R-multicast in two ways for
 each one - assynchronous and synchronous. Along with the implementation of the functions, there are counters
-to prospect the medium time of execution of each algorithm, with the goal to compare it.
+to prospect the medium time of execution of each algorithm, with the goal to compare it and charts showing the difference between time execution of the algorithms.
 
-This project was made to be graded at the course of [Distributed Systems](https://sites.google.com/a/ic.ufal.br/andrelage/home/lectures/2015-2), lectured by [Professor Andre Lage](https://github.com/proflage/) in the [Institute of Computing](http://www.ic.ufal.br) at [UFAL](http://www.ufal.edu.br). You can find the template used to this project clickin [here](https://github.com/proflage/teaching/tree/master/2015.2-SD-trabalho-pratico)
+This project was made to be graded at the course of <a href="https://sites.google.com/a/ic.ufal.br/andrelage/home/lectures/2015-2" target="_blank">Distributed Systems</a>, lectured by <a href="https://github.com/proflage/" target="_blank">Professor Andre Lage</a> in the <a href="http://www.ic.ufal.br" target="_blank">Institute of Computing</a> at <a href="http://www.ufal.edu.br" target="_blank">UFAL - Federal University of Alagoas</a>. You can find the template used to this project clicking <a href="https://github.com/proflage/teaching/tree/master/2015.2-SD-trabalho-pratico" target="_blank">here</a>.
 
 In the source files, you can find:
 
@@ -17,12 +17,18 @@ Feel free to perform a pull request to the project, implementing additional func
 
 ### JuliaBox
 
- - Sign in at JuliaBox in https://juliabox.org using your google account
- --- If you do not have a google account, you can create one at [Google Accounts](https://accounts.google.com/sigNup)
- - On the right sub-topmenu, click on the first button 'Upload'.
- --- Select the file `Multicasts-Julia.ipynb` that you've downloaded along with the repository.
- - Wait for Julia to auto-prepare the environment for you
- - You are good to go!
+<ul>
+	<li>Sign in at JuliaBox in https://juliabox.org using your google account
+		<ul>
+ 			<li>If you do not have a google account, you can create one at [Google Accounts](https://accounts.google.com/sigNup)</li>
+ 		</ul></li>
+ 	<li>On the right sub-topmenu, click on the first button 'Upload'.
+ 		<ul>
+ 			<li>Select the file `Multicasts-Julia.ipynb` that you've downloaded along with the repository.</li>
+ 		</ul></li>
+	<li>Wait for Julia to auto-prepare the environment for you</li>
+ 	<li>You are good to go!</li>
+ </ul>
 
 ### Local installation
 
