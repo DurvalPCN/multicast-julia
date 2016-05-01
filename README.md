@@ -9,7 +9,7 @@ In the source files, you can find:
 - `Multicasts-Julia.ipnyb` to load at your Julia enviroment
 - Source images used for the graphs generated
 
-Feel free to perform a pull request to the project, implementing additional functions or improving some of the existents.
+Feel free to perform a pull request to the project, implementing additional functions or improving some of the existents.<br>
 This baby project was made using <a href="https://juliabox.org" target="_blank">JuliaBox</a>, we recommend you also use the same tool, listed below.
 
 </nav>
