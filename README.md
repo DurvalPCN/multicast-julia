@@ -35,8 +35,8 @@ Just install IJulia Notebook and load the file `Multicasts-Julia.ipynb`.
 
 ### References
 
-[1] Julia programming language, available at < http://julialang.org/ >
-[2] B-multicast, available at < https://en.wikipedia.org/wiki/Multicast >
-[3] R-multicast, available at < https://en.wikipedia.org/wiki/Reliable_multicast >
-[4] Asynchronous communication, available at < https://en.wikipedia.org/wiki/Asynchronous_communication >
-[5] Synchronous communication, available at < https://en.wikipedia.org/wiki/Synchronous_serial_communication >
+[1] Julia programming language, available at < http://julialang.org/ > <br>
+[2] B-multicast, available at < https://en.wikipedia.org/wiki/Multicast > <br>
+[3] R-multicast, available at < https://en.wikipedia.org/wiki/Reliable_multicast > <br>
+[4] Asynchronous communication, available at < https://en.wikipedia.org/wiki/Asynchronous_communication > <br>
+[5] Synchronous communication, available at < https://en.wikipedia.org/wiki/Synchronous_serial_communication > <br>
