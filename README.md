@@ -20,11 +20,11 @@ Feel free to perform a pull request to the project, implementing additional func
 <ul>
 	<li>Sign in at <a href="https://juliabox.org" target="_blank">JuliaBox</a> using your google account
 		<ul>
- 			<li>If you do not have a google account, you can create one at [Google Accounts](https://accounts.google.com/sigNup)</li>
+ 			<li>If you do not have a google account, you can create one at <a href="https://accounts.google.com/sigNup" target="_blank">Google Accounts</a></li>
  		</ul></li>
- 	<li>On the right sub-topmenu, click on the first button <b><i>Upload</i></b>.
+ 	<li>On the right sub-topmenu, click on the first button <b><i>Upload</i></b>
  		<ul>
- 			<li>Select the file <b><i>Multicasts-Julia.ipynb</b></i> that you've downloaded along with the repository.</li>
+ 			<li>Select the file <b><i>Multicasts-Julia.ipynb</b></i> that you've downloaded along with the repository</li>
  		</ul></li>
 	<li>Wait for Julia to auto-prepare the environment for you</li>
  	<li>You are good to go!</li>
