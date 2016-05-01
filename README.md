@@ -10,12 +10,12 @@ Feel free to perform a pull request to the project, implementing additional func
 
 ### JuliaBox
 
- 1. Sign in at JuliaBox in https://juliabox.org using your google account
- 1.1. If you do not have a google account, you can create one at [Google Accounts](https://accounts.google.com/sigNup)
- 2. On the right sub-topmenu, click on the first button 'Upload'.
- 2.1. Select the file `Multicasts-Julia.ipynb` that you've downloaded along with the repository.
- 3. Wait for Julia to auto-prepare the environment for you
- 4. You are good to go!
+ - Sign in at JuliaBox in https://juliabox.org using your google account
+ -- If you do not have a google account, you can create one at [Google Accounts](https://accounts.google.com/sigNup)
+ - On the right sub-topmenu, click on the first button 'Upload'.
+ -- Select the file `Multicasts-Julia.ipynb` that you've downloaded along with the repository.
+ - Wait for Julia to auto-prepare the environment for you
+ - You are good to go!
 
 ### Local installation
 
