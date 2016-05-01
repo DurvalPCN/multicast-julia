@@ -14,7 +14,7 @@ This baby project was made using <a href="https://juliabox.org" target="_blank">
 
 </nav>
 
-### JuliaBox
+### Using JuliaBox
 
 <ul>
 	<li>Sign in at <a href="https://juliabox.org" target="_blank">JuliaBox</a> using your google account
@@ -29,7 +29,7 @@ This baby project was made using <a href="https://juliabox.org" target="_blank">
  	<li>You are good to go!</li>
  </ul>
 
-### Local installation
+### Local installation with IJulia Notebook
 
 If preferred, the user can use [IJulia Notebook](https://github.com/JuliaLang/IJulia.jl) in your local machine.<br>
 Just install IJulia Notebook and load the file `Multicasts-Julia.ipynb`. 
