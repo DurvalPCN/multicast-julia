@@ -34,6 +34,11 @@ This baby project was made using <a href="https://juliabox.org" target="_blank">
 If preferred, the user can use [IJulia Notebook](https://github.com/JuliaLang/IJulia.jl) in your local machine.<br>
 Just install IJulia Notebook and load the file `Multicasts-Julia.ipynb`. 
 
+### Credits
+
+Created by <a href="http://www.durvalpereira.com.br" target="_blank">Durval Pereira</a><br>
+<a href="http://bit.ly/durvallattes" target="_blank">Lattes</a> <a href="http://twitter.com/DurvalPCN">Twitter</a> <a href="http://www.facebook.com/durvalpereiracn">Facebook</a> <a href="plus.google.com/+DurvalPereiraCesar">Google+</a> <a href="mailto:contato@durvalpereira.com.br">Contact me</a>
+
 ### References
 
 [1] Julia programming language, available at < http://julialang.org/ > <br>
